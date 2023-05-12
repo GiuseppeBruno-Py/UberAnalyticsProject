@@ -1,4 +1,4 @@
-# Uber Data Analysis and Visualization
+# Uber Data Analysis
 
 This README outlines the process and tools used in this project that focuses on consuming a dataset of general Uber information and presenting it via a dashboard with multiple filters and indicators.
 
