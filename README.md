@@ -4,17 +4,22 @@ This README outlines the process and tools used in this project that focuses on 
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Modeling](#data-modeling)
-3. [Data Transformation](#data-transformation)
-4. [Data Orchestration](#data-orchestration)
-5. [Data Analysis and Visualization](#data-analysis-and-visualization)
-6. [Installation & Usage](#installation-and-usage)
+2. [Architecture](#architecture)
+3. [Data Modeling](#data-modeling)
+4. [Data Transformation](#data-transformation)
+5. [Data Orchestration](#data-orchestration)
+6. [Data Analysis and Visualization](#data-analysis-and-visualization)
+7. [Installation & Usage](#installation-and-usage)
 
 ## Introduction <a name="introduction"></a>
 
 This project aims to effectively present an insightful view of the Uber dataset. The process involves data modeling, transformation, orchestration, and analysis that ultimately results in an interactive dashboard on Looker Studio. 
 
 The primary dataset used in this project is `uber_data.csv`, which contains comprehensive information about Uber rides.
+
+## Architecture <a name="architecture"></a>
+
+![image](https://github.com/GiuseppeBruno-Py/UberAnalyticsProject/assets/91219935/7e85ad4e-7cc5-47dd-8ac7-e76820879dea)
 
 ## Data Modeling <a name="data-modeling"></a>
 
