@@ -19,7 +19,7 @@ The primary dataset used in this project is `uber_data.csv`, which contains comp
 
 ## Architecture <a name="architecture"></a>
 
-![image](https://github.com/GiuseppeBruno-Py/UberAnalyticsProject/assets/91219935/7e85ad4e-7cc5-47dd-8ac7-e76820879dea)
+![image](**https://github.com/GiuseppeBruno-Py/UberAnalyticsProject/assets/91219935/7e85ad4e-7cc5-47dd-8ac7-e76820879dea**)
 
 ## Data Modeling <a name="data-modeling"></a>
 
